@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Streamlit overrides (keep .streamlit/config.toml tracked)
+.streamlit/secrets.toml
